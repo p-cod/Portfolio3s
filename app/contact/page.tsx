@@ -76,9 +76,9 @@ export default function ContactPage() {
                 <h4 style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, color: '#fff', marginBottom: '0.3rem', fontSize: '0.9rem' }}>
                   Email
                 </h4>
-                <a href="mailto: preciouseyube59@gmail.com" className="text-sm transition-colors"
+                <a href="mailto:preciouseyube59@gmail.com" className="text-sm transition-colors"
                   style={{ color: '#BC6FF1', fontFamily: 'DM Sans, sans-serif' }}>
-                  your@email.com
+                  preciouseyube59@gmail.com
                 </a>
               </div>
             </Reveal>
