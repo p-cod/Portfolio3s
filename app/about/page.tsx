@@ -87,11 +87,7 @@ export default function AboutPage() {
                 <div className="relative z-10 w-full h-full rounded-3xl glass flex items-center justify-center overflow-hidden"
                   style={{ border: '1px solid rgba(188,111,241,0.3)' }}>
                   <div className="text-center p-8">
-                    <img 
-  src="/photo.jpg.png" 
-  alt="Profile Photo" 
-  style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '1.5rem' }} 
-/>
+                    <img src="/photo.jpg.png" alt="Profile Photo"style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '1.5rem' }}/>
                   </div>
                 </div>
                 {/* Floating badges */}
