@@ -98,7 +98,7 @@ export default function Footer() {
                 <a href="mailto: preciouseyube59@gmail.com" className="text-sm transition-colors" style={{ color: '#666', fontFamily: 'DM Sans, sans-serif' }}
                   onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#BC6FF1' }}
                   onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#666' }}>
-                  your@email.com
+                  preciouseyube59@gmail.com
                 </a>
               </li>
               <li>
