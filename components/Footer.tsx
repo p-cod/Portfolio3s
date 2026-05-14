@@ -14,7 +14,7 @@ const socials = [
   { href: 'https://github.com', icon: Github, label: 'GitHub' },
   { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
   { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
-  { href: 'mailto:your@email.com', icon: Mail, label: 'Email' },
+  { href: 'mailto: preciouseyube59@gmail.com', icon: Mail, label: 'Email' },
 ]
 
 export default function Footer() {
@@ -95,7 +95,7 @@ export default function Footer() {
                 📍 Nigeria
               </li>
               <li>
-                <a href="mailto:your@email.com" className="text-sm transition-colors" style={{ color: '#666', fontFamily: 'DM Sans, sans-serif' }}
+                <a href="mailto: preciouseyube59@gmail.com" className="text-sm transition-colors" style={{ color: '#666', fontFamily: 'DM Sans, sans-serif' }}
                   onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#BC6FF1' }}
                   onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#666' }}>
                   your@email.com
