@@ -14,7 +14,7 @@ const socials = [
   { href: 'https://github.com', icon: Github, label: 'GitHub' },
   { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
   { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
-  { href: 'mailto: preciouseyube59@gmail.com', icon: Mail, label: 'Email' },
+  { href: 'mailto:preciouseyube59@gmail.com', icon: Mail, label: 'Email' },
 ]
 
 export default function Footer() {
