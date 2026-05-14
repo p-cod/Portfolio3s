@@ -87,10 +87,7 @@ export default function AboutPage() {
                 <div className="relative z-10 w-full h-full rounded-3xl glass flex items-center justify-center overflow-hidden"
                   style={{ border: '1px solid rgba(188,111,241,0.3)' }}>
                   <div className="text-center p-8">
-                    <div className="text-7xl mb-4">👨‍💻</div>
-                    <p className="text-xs tracking-widest" style={{ color: '#666', fontFamily: 'DM Sans, sans-serif' }}>
-                      YOUR PHOTO HERE
-                    </p>
+                    <img src="/photo.PNG" alt="Profile" className="w-full h-full object-cover rounded-3xl" />
                     <p className="text-xs mt-1" style={{ color: '#444', fontFamily: 'DM Sans, sans-serif' }}>
                       Replace with an &lt;Image /&gt; component
                     </p>
