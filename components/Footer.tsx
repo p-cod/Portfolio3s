@@ -12,7 +12,7 @@ const links = [
 
 const socials = [
   { href: 'https://github.com', icon: Github, label: 'GitHub' },
-  { href: 'https://twitter.com', icon: Twitter, label: 'Twitter' },
+  { href: 'https://x.com/EyubePreci59268', icon: Twitter, label: 'Twitter' },
   { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
   { href: 'mailto:preciouseyube59@gmail.com', icon: Mail, label: 'Email' },
 ]
