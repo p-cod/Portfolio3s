@@ -30,7 +30,7 @@ export default function Footer() {
                 <span style={{ fontFamily: 'Syne', fontWeight: 800, fontSize: '0.9rem', color: '#fff' }}>D</span>
               </div>
               <span style={{ fontFamily: 'Syne', fontWeight: 700, fontSize: '1.1rem', color: '#fff' }}>
-                DEV<span style={{ color: '#BC6FF1' }}>.</span>
+                DEV PRECIOUS <span style={{ color: '#BC6FF1' }}>.</span>
               </span>
             </div>
             <p className="text-sm leading-relaxed mb-6" style={{ color: '#666', fontFamily: 'DM Sans, sans-serif' }}>
@@ -121,7 +121,7 @@ export default function Footer() {
         <div className="pt-8" style={{ borderTop: '1px solid rgba(188,111,241,0.08)' }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-xs" style={{ color: '#444', fontFamily: 'DM Sans, sans-serif' }}>
-              © {new Date().getFullYear()} Dev Portfolio. All rights reserved.
+              © {new Date().getFullYear()} Dev Precious Portfolio. All rights reserved.
             </p>
             <p className="text-xs" style={{ color: '#444', fontFamily: 'DM Sans, sans-serif' }}>
               Built with Next.js & Framer Motion
