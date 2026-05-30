@@ -40,7 +40,7 @@ export default function Navbar() {
             <span style={{ fontFamily: 'Syne', fontWeight: 800, fontSize: '0.9rem', color: '#fff' }}>D</span>
           </div>
           <span style={{ fontFamily: 'Syne', fontWeight: 700, fontSize: '1.1rem', color: '#fff', letterSpacing: '0.05em' }}>
-            DEV<span style={{ color: '#BC6FF1' }}>.</span>
+            DEV PRECIOUS <span style={{ color: '#BC6FF1' }}>.</span>
           </span>
         </Link>
 
